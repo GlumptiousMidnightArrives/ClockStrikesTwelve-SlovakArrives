@@ -5212,3 +5212,16 @@ SC4 = { # River Plate
 	cultures = { spanish }
 	capital = STATE_BUENOS_AIRES
 }
+
+SOR = {
+	color = { 108 131 203 }
+
+	country_type = recognized
+
+	religion = catholic
+
+	tier = kingdom
+
+	cultures = { sorb }
+	capital = STATE_SORBIA
+}

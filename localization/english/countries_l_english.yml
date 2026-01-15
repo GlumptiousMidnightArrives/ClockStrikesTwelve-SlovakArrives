@@ -1768,3 +1768,7 @@
  SLV_ADJ:0 "Slovak"
  dyn_c_slovak_kingdom: "Kingdom of Veľký Slovensko"
  dyn_c_slovak_empire: "Grande Imperial Realm of Slovensko"
+
+# Sorbia
+ SOR:0 "Sorbia"
+ SOR_ADJ:0 "Sorbian"
