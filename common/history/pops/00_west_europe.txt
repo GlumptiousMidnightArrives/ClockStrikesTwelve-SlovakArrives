@@ -1138,7 +1138,7 @@
 				size = 16000
 			}
 			create_pop = {
-				culture = czech
+				culture = moravian
 				religion = catholic
 				size = 24000
 			}

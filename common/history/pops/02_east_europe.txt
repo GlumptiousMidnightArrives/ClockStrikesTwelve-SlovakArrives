@@ -227,8 +227,7 @@
 	s:STATE_UPPER_SILESIA = {
 		region_state:PRU = {
 			create_pop = {
-				culture = north_german
-				religion = catholic
+				culture = silesian
 				size = 157662
 			}
 			create_pop = {
@@ -261,8 +260,7 @@
 		}
 		region_state:AUS = {
 		    create_pop = {
-		        culture = north_german
-		        religion = catholic
+		        culture = silesian
 		        size = 81778
 		    }
 		    create_pop = {
@@ -415,6 +413,10 @@
 				culture = ashkenazi
 				size = 156500
 			}
+			create_pop = {
+				culture = slovak
+				size = 396521
+			}
 		}
 		region_state:KRA = {
 			create_pop = {
@@ -434,15 +436,15 @@
 			}
 			create_pop = {
 				culture = galicjan
-				size = 172396
+				size = 122396
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 28004
+				size = 78004
 			}
 			create_pop = {
 				culture = polish
-				size = 22000
+				size = 22400
 			}
 		}
 	}
@@ -875,16 +877,21 @@
 				size = 154012
 			}
 			create_pop = {
+				culture = slovene
+				size = 20900
+				religion = orthodox
+			}
+			create_pop = {
 				culture = ashkenazi
 				size = 20004
 			}
 			create_pop = {
-				culture = hungarian
-				size = 1986
+				culture = romanian
+				size = 11986
 			}
 			create_pop = {
 				culture = galicjan
-				size = 104400
+				size = 84400
 				religion = orthodox
 			}
 			create_pop = {
