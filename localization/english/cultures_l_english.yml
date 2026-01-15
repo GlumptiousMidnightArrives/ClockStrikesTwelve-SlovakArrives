@@ -323,7 +323,8 @@
  lumad: "Lumad"
  galicjan: "Galicjan"
  rusyn: "Rusyn"
- moravian: "Moravian"
+ morav: "Morav"
+ silesian: "Silesian"
 
 ### Culture Heritage Groups
 heritage_group_african: "African"
@@ -1059,7 +1060,8 @@ PLURAL_DEMONYM_lumad: "Lumad"
 PLURAL_DEMONYM_DEFAULT: "[ROOT.GetCulture.GetNameNoFormatting]"
 PLURAL_DEMONYM_galicjan: "Galicjans"
 PLURAL_DEMONYM_rusyn: "Rusyns"
-PLURAL_DEMONYM_moravan: "Moravians"
+PLURAL_DEMONYM_morav: "Moravians"
+PLURAL_DEMONYM_silesian: "Silesians"
 
 # Singular Demonyms
 SINGULAR_DEMONYM_north_german: "North German"
@@ -1386,4 +1388,5 @@ SINGULAR_DEMONYM_lumad: "Lumad"
 SINGULAR_DEMONYM_DEFAULT: "[ROOT.GetCulture.GetNameNoFormatting]"
 SINGULAR_DEMONYM_galicjan: "Galicjan"
 SINGULAR_DEMONYM_rusyn: "Rus"
-SINGULAR_DEMONYM_moravian: "Morav"
+SINGULAR_DEMONYM_morav: "Morav"
+SINGULAR_DEMONYM_sielsian: "Silesian"

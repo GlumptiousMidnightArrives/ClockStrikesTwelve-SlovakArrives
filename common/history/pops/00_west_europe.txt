@@ -1138,7 +1138,7 @@
 				size = 16000
 			}
 			create_pop = {
-				culture = moravian
+				culture = morav
 				religion = catholic
 				size = 24000
 			}
@@ -1159,6 +1159,10 @@
 				culture = czech
 				religion = catholic
 				pop_type = shopkeepers
+				size = 20000
+			}
+			create_pop = {
+				culture = morav
 				size = 20000
 			}
 			create_pop = {
@@ -1200,14 +1204,18 @@
 		}
 	}
 	s:STATE_MORAVIA = {
-		region_state:AUS = {
+		region_state:SLV = {
 			create_pop = {
 				culture = slovak
 				size = 10000
 				pop_type = aristocrats
 			}
 			create_pop = {
-				culture = moravian
+				culture = slovak
+				size = 32001
+			}
+			create_pop = {
+				culture = morav
 				size = 3500
 				pop_type = aristocrats
 			}
@@ -1236,23 +1244,23 @@
 				size = 30020
 			}
 			create_pop = {
-				culture = moravian
+				culture = morav
 				religion = catholic
 				pop_type = soldiers
 				size = 30000
 			}
 			create_pop = {
-				culture = moravian
+				culture = morav
 				religion = catholic
 				pop_type = clerks
 				size = 5000
 			}
 			create_pop = {
-				culture = moravian
+				culture = morav
 				size = 470408
 			}
 			create_pop = {
-				culture = moravian
+				culture = morav
 				religion = catholic
 				size = 1083496
 			}

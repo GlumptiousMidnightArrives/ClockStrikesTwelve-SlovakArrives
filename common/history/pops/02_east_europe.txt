@@ -258,13 +258,13 @@
 				size = 3452
 			}
 		}
-		region_state:AUS = {
+		region_state:SLV = {
 		    create_pop = {
 		        culture = silesian
 		        size = 81778
 		    }
 		    create_pop = {
-		        culture = north_german
+		        culture = slovak
 		        size = 55800
 		    }
 		    create_pop = {
@@ -280,6 +280,10 @@
 		        culture = ashkenazi
 		        religion = jewish
 		        size = 6896
+		    }
+			create_pop = {
+		        culture = north_german
+		        size = 5200
 		    }
 		}
 	}
@@ -722,7 +726,7 @@
 			    size = 76302
 			}
 			create_pop = {
-			    culture = moravian
+			    culture = morav
 			    size = 67051
 			}
 			create_pop = {
