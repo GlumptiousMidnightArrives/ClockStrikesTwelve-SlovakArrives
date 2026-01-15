@@ -7953,7 +7953,7 @@ STATES = {
 
 		add_homeland = cu:south_german
 	}
-	s:STATE_JUŽNÝ_TIROL = {
+	s:STATE_SOUTH_TYROL = {
 		create_state = {
 			country = c:AUS
 			owned_provinces = { xD0BF60 x1120FF xD040E0 x039D0F }
