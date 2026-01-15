@@ -1292,12 +1292,20 @@
 	s:STATE_SOUTH_TYROL = {
 		region_state:AUS = {
 			create_pop = {
-				culture = south_german
+				culture = romanian
 				size = 183000
 			}
 			create_pop = {
-				culture = north_italian
+				culture = slovak
 				size = 308000
+			}
+			create_pop = {
+				culture = south_german
+				size = 50000
+			}
+			create_pop = {
+				culture = north_italian
+				size = 70000
 			}
 		}
 	}
