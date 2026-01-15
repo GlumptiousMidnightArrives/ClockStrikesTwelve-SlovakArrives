@@ -1,5 +1,5 @@
 galicjan= {
-	color= { 132 216 240 }
+	color= { 235 147 117 }
 	religion = catholic
 	heritage = heritage_west_slavic
 	language = language_west_slavic
@@ -253,7 +253,7 @@ rusyn= {
 	graphics = european
 }
 
-moravan= {
+moravian= {
 	color= { 115 183 255 }
 	religion = catholic
 	heritage = heritage_west_slavic

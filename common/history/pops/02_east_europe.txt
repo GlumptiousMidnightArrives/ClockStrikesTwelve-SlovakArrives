@@ -720,14 +720,8 @@
 			    size = 76302
 			}
 			create_pop = {
-			    culture = south_german
-			    religion = catholic
-			    size = 23031
-			}
-			create_pop = {
-			    culture = south_german
-			    religion = protestant
-			    size = 44020
+			    culture = moravian
+			    size = 67051
 			}
 			create_pop = {
 			    culture = ashkenazi
@@ -739,12 +733,12 @@
 			}
 
 			create_pop = {
-				culture = rusyn # Rusyns etc.
+				culture = rusyn
 				size = 52035
 			}
 			create_pop = {
-				culture = rusyn # Rusyns etc.
-				religion = catholic # greek catholic
+				culture = rusyn
+				religion = catholic
 				size = 5012
 			}
 		}
@@ -752,28 +746,18 @@
 	s:STATE_RUTHENIA = {
 		region_state:SLV = {
 			create_pop = {
-				culture = rusyn # Rusyns etc.
-				size = 82035
+				culture = rusyn
+				size = 87335
 			}
 			create_pop = {
-				culture = rusyn # Rusyns etc.
-				religion = catholic # greek catholic
+				culture = rusyn
+				religion = catholic
 				size = 48023
 			}
 			create_pop = {
 				culture = slovak
-				religion = protestant
-				size = 41267
-			}
-			create_pop = {
-				culture = slovak
-				religion = catholic # greek catholic
-				size = 69068
-			}
-			create_pop = {
-				culture = south_german
-				religion = protestant
-				size = 5342
+				religion = catholic
+				size = 110338
 			}
 			create_pop = {
 				culture = slovak
@@ -783,16 +767,12 @@
 			}
 			create_pop = {
 				culture = slovene
-				size = 8701
+				size = 13991
 			}
 			create_pop = {
 				culture = hungarian
 				religion = protestant
 				size = 27501
-			}
-			create_pop = {
-				culture = romanian
-				size = 2296
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -892,15 +872,11 @@
 			}
 			create_pop = {
 				culture = slovene
-				size = 144000
+				size = 154012
 			}
 			create_pop = {
 				culture = ashkenazi
 				size = 20004
-			}
-			create_pop = {
-				culture = szekely
-				size = 10012
 			}
 			create_pop = {
 				culture = hungarian
@@ -912,7 +888,7 @@
 				religion = orthodox
 			}
 			create_pop = {
-				culture = south_german
+				culture = slovak
 				size = 32000
 			}
 		}

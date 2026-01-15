@@ -1207,7 +1207,7 @@
 				pop_type = aristocrats
 			}
 			create_pop = {
-				culture = czech
+				culture = moravian
 				size = 3500
 				pop_type = aristocrats
 			}
@@ -1228,28 +1228,31 @@
 			}
 			create_pop = {
 				culture = czech
-				religion = catholic
 				pop_type = shopkeepers
 				size = 10000
 			}
 			create_pop = {
-				culture = moravan
+				culture = czech
+				size = 30020
+			}
+			create_pop = {
+				culture = moravian
 				religion = catholic
 				pop_type = soldiers
 				size = 30000
 			}
 			create_pop = {
-				culture = moravan
+				culture = moravian
 				religion = catholic
 				pop_type = clerks
 				size = 5000
 			}
 			create_pop = {
-				culture = moravan
+				culture = moravian
 				size = 470408
 			}
 			create_pop = {
-				culture = moravan
+				culture = moravian
 				religion = catholic
 				size = 1083496
 			}
