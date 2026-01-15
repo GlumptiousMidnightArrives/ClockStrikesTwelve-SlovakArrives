@@ -906,4 +906,17 @@
 			}
 		}
 	}
+		s:STATE_SORBIA = { # fart fart fart fart fart fart
+		region_state:SOR = {
+			create_pop = {
+				culture = sorb
+				size = 81032
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = north_german
+				size = 10357
+			}
+		}
+	}
 }
