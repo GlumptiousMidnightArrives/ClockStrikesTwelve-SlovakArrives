@@ -63,11 +63,5 @@
 		add_journal_entry = {
 			type = je_matter_of_hungary
 		}
-
-		start_national_awakening = {
-			culture = cu:czech
-			months = 168
-			state_region = s:STATE_BOHEMIA
-		}
 	}
 }
