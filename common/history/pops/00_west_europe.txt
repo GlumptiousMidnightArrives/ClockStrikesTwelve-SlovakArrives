@@ -1202,7 +1202,7 @@
 	s:STATE_MORAVIA = {
 		region_state:AUS = {
 			create_pop = {
-				culture = south_german
+				culture = slovak
 				size = 10000
 				pop_type = aristocrats
 			}
@@ -1233,23 +1233,23 @@
 				size = 10000
 			}
 			create_pop = {
-				culture = czech
+				culture = moravan
 				religion = catholic
 				pop_type = soldiers
 				size = 30000
 			}
 			create_pop = {
-				culture = czech
+				culture = moravan
 				religion = catholic
 				pop_type = clerks
 				size = 5000
 			}
 			create_pop = {
-				culture = south_german
+				culture = moravan
 				size = 470408
 			}
 			create_pop = {
-				culture = czech
+				culture = moravan
 				religion = catholic
 				size = 1083496
 			}
