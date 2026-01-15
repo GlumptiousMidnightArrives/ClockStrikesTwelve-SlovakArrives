@@ -416,11 +416,11 @@
 			}
 			create_pop = {
 				culture = galicjan
-				size = 122396
+				size = 112396
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 78004
+				size = 88004
 			}
 			create_pop = {
 				culture = polish
@@ -752,7 +752,7 @@
 				size = 13991
 			}
 			create_pop = {
-				culture = hungarian
+				culture = rusyn
 				religion = protestant
 				size = 27501
 			}
@@ -866,7 +866,7 @@
 				size = 20004
 			}
 			create_pop = {
-				culture = romanian
+				culture = slovene
 				size = 11986
 			}
 			create_pop = {

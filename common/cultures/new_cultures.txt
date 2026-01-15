@@ -253,7 +253,7 @@ rusyn= {
 	graphics = european
 }
 
-moravian= {
+morav= {
 	color= { 115 183 255 }
 	religion = catholic
 	heritage = heritage_west_slavic

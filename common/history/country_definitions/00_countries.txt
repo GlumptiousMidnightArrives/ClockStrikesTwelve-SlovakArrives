@@ -805,7 +805,7 @@ KRA = {
 	tier = city_state
 
 	capital = STATE_WEST_GALICIA
-	cultures = { polish }
+	cultures = { ashkenazi galician polish }
 }
 
 CRI = {

@@ -1215,8 +1215,8 @@ STATES = {
 			owned_provinces = { x31A0A0 x7E6263 xFFCCDA x00A7F4 x067DF0 }
 		}
 
-		add_homeland = cu:ukrainian
-		add_homeland = cu:romanian
+		add_homeland = cu:galicjan
+		add_homeland = cu:slovene
 	}
 	s:STATE_MOLDAVIA = {
 		create_state = {
@@ -7812,6 +7812,8 @@ STATES = {
 		}
 
 		add_homeland = cu:polish
+		add_homeland = cu:galicjan
+		add_homeland = cu:slovak
 	}
 	s:STATE_EAST_GALICIA = {
 		create_state = {
@@ -7821,6 +7823,7 @@ STATES = {
 
 		add_homeland = cu:polish
 		add_homeland = cu:ukrainian
+		add_homeland = cu:galicjan
 	}
 	s:STATE_SLOVAKIA = {
 		create_state = {
@@ -7836,8 +7839,8 @@ STATES = {
 			owned_provinces = { x359378 x69BAC7 xA0531B xC85CD0 xD0E061 }
 		}
 
-		add_homeland = cu:ukrainian
 		add_homeland = cu:slovak
+		add_homeland = cu:rusyn
 	}
 	s:STATE_DALMATIA = {
 		create_state = {
@@ -7916,8 +7919,8 @@ STATES = {
 			owned_provinces = { x08AA4B xD9A784 x49C8F7 xEF6080 x12778D x4B3444 x1D088E x10DFDF x9061E0 x71E080 xF0E080 }
 		}
 
-		add_homeland = cu:czech
 		add_homeland = cu:south_german
+		add_homeland = cu:morav
 	}
 	s:STATE_CENTRAL_HUNGARY = {
 		create_state = {
@@ -8082,6 +8085,7 @@ STATES = {
 		add_homeland = cu:north_german
 		add_homeland = cu:polish
 		add_homeland = cu:czech
+		add_homeland = cu:silesian
 	}
 
 	s:STATE_BRANDENBURG = {
