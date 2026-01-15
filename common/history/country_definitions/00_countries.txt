@@ -897,7 +897,7 @@ SLV = {
 
 	tier = kingdom
 
-	cultures = { slovak }
+	cultures = { slovak, morav }
 	capital = STATE_SLOVAKIA
 }
 

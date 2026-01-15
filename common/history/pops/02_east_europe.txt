@@ -181,13 +181,13 @@
 	s:STATE_LOWER_SILESIA = {
 		region_state:PRU = {
 			create_pop = {
-				culture = north_german
+				culture = silesian
 				religion = catholic
-				size = 251922
+				size = 451922
 			}
 			create_pop = {
-				culture = north_german
-				size = 1427561
+				culture = sorb
+				size = 1227561
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -200,7 +200,7 @@
 			create_pop = {
 				culture = polish
 				religion = protestant
-				size = 5389
+				size = 15389
 			}
 			create_pop = {
 				culture = czech
@@ -213,14 +213,14 @@
 				size = 2625
 			}
 			create_pop = {
-				culture = sorb
+				culture = north_german
 				religion = catholic
-				size = 7600
+				size = 17600
 			}
 			create_pop = {
 				culture = sorb
 				religion = protestant
-				size = 68400
+				size = 74400
 			}
 		}
 	}
@@ -228,15 +228,19 @@
 		region_state:PRU = {
 			create_pop = {
 				culture = silesian
-				size = 157662
+				size = 177662
 			}
 			create_pop = {
 				culture = north_german
-				size = 128996
+				size = 108996
 			}
 			create_pop = {
 				culture = ashkenazi
 				size = 13153
+			}
+			create_pop = {
+				culture = sorb
+				size = 7153
 			}
 			create_pop = {
 				culture = polish
