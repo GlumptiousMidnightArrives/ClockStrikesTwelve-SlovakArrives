@@ -696,17 +696,13 @@
 			    culture = slovak
 				pop_type = aristocrats
 			    religion = catholic
-			    size = 8000
+			    size = 12000
 			}
-			create_pop = {
-			    culture = south_german
-				pop_type = aristocrats
-			    size = 3000
-			}
+
 			create_pop = {
 			    culture = slovak
 			    religion = catholic
-			    size = 1890041
+			    size = 1990041
 			}
 			create_pop = {
 			    culture = slovak
@@ -716,7 +712,7 @@
 			create_pop = {
 			    culture = hungarian
 			    religion = catholic
-			    size = 136040
+			    size = 106040
 			}
 			create_pop = {
 			    culture = hungarian
@@ -726,27 +722,28 @@
 			create_pop = {
 			    culture = south_german
 			    religion = catholic
-			    size = 123031
+			    size = 23031
 			}
 			create_pop = {
 			    culture = south_german
 			    religion = protestant
-			    size = 84020
+			    size = 44020
 			}
 			create_pop = {
 			    culture = ashkenazi
 			    size = 105072
 			}
 			create_pop = {
-			    culture = polish
-			    size = 12021
+			    culture = galician
+			    size = 52021
+			}
+
+			create_pop = {
+				culture = rusyn # Rusyns etc.
+				size = 52035
 			}
 			create_pop = {
-				culture = ukrainian # Rusyns etc.
-				size = 22035
-			}
-			create_pop = {
-				culture = ukrainian # Rusyns etc.
+				culture = rusyn # Rusyns etc.
 				religion = catholic # greek catholic
 				size = 5012
 			}
@@ -755,11 +752,11 @@
 	s:STATE_RUTHENIA = {
 		region_state:SLV = {
 			create_pop = {
-				culture = ukrainian # Rusyns etc.
+				culture = rusyn # Rusyns etc.
 				size = 82035
 			}
 			create_pop = {
-				culture = ukrainian # Rusyns etc.
+				culture = rusyn # Rusyns etc.
 				religion = catholic # greek catholic
 				size = 48023
 			}
@@ -785,8 +782,7 @@
 				size = 3800
 			}
 			create_pop = {
-				culture = hungarian
-				religion = catholic
+				culture = slovene
 				size = 8701
 			}
 			create_pop = {
@@ -796,15 +792,15 @@
 			}
 			create_pop = {
 				culture = romanian
-				size = 7296
+				size = 2296
 			}
 			create_pop = {
 				culture = ashkenazi
 				size = 48687
 			}
 			create_pop = {
-				culture = polish
-				size = 421
+				culture = galician
+				size = 8210
 			}
 		}
 	}
@@ -891,11 +887,11 @@
 	s:STATE_BUKOVINA = {
 		region_state:SLV = {
 			create_pop = {
-				culture = polish
-				size = 20008
+				culture = galician
+				size = 60008
 			}
 			create_pop = {
-				culture = romanian
+				culture = slovene
 				size = 144000
 			}
 			create_pop = {
@@ -911,8 +907,9 @@
 				size = 1986
 			}
 			create_pop = {
-				culture = ukrainian
-				size = 144400
+				culture = galician
+				size = 104400
+				religion = orthodox
 			}
 			create_pop = {
 				culture = south_german
