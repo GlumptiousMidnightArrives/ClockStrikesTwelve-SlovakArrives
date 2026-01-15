@@ -321,7 +321,9 @@
  visayan: "Visayan"
  ilocano: "Ilocano"
  lumad: "Lumad"
- 
+ galicjan: "Galicjan"
+ rusyn: "Rusyn"
+ moravian: "Moravian"
 
 ### Culture Heritage Groups
 heritage_group_african: "African"
@@ -1055,6 +1057,9 @@ PLURAL_DEMONYM_visayan: "Visayans"
 PLURAL_DEMONYM_ilocano: "Ilocanos"
 PLURAL_DEMONYM_lumad: "Lumad"
 PLURAL_DEMONYM_DEFAULT: "[ROOT.GetCulture.GetNameNoFormatting]"
+PLURAL_DEMONYM_galicjan: "Galicjans"
+PLURAL_DEMONYM_rusyn: "Rusyns"
+PLURAL_DEMONYM_moravan: "Moravians"
 
 # Singular Demonyms
 SINGULAR_DEMONYM_north_german: "North German"
@@ -1379,3 +1384,6 @@ SINGULAR_DEMONYM_visayan: "Visayan"
 SINGULAR_DEMONYM_ilocano: "Ilocano"
 SINGULAR_DEMONYM_lumad: "Lumad"
 SINGULAR_DEMONYM_DEFAULT: "[ROOT.GetCulture.GetNameNoFormatting]"
+SINGULAR_DEMONYM_galicjan: "Galicjan"
+SINGULAR_DEMONYM_rusyn: "Rus"
+SINGULAR_DEMONYM_moravian: "Morav"
