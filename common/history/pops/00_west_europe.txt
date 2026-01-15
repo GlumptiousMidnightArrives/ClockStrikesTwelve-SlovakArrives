@@ -1258,7 +1258,7 @@
 				size = 15000
 			}
 			create_pop = {
-				culture = polish
+				culture = galician
 				size = 56004
 			}
 		}
