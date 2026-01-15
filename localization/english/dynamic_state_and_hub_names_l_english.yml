@@ -138,6 +138,13 @@
  HUB_NAME_STATE_WEST_GALICIA_farm_german: "Resze"
  HUB_NAME_STATE_WEST_GALICIA_wood_german: "Tarnau"
 
+ STATE_WEST_GALICIA_slovak: "Západná Halič"
+ HUB_NAME_STATE_WEST_GALICIA_city_slovak: "Krakov"
+ HUB_NAME_STATE_WEST_GALICIA_port_slovak: "Slovzczcecia"
+ HUB_NAME_STATE_WEST_GALICIA_mine_slovak: "Jaroslau"
+ HUB_NAME_STATE_WEST_GALICIA_farm_slovak: "Rešov"
+ HUB_NAME_STATE_WEST_GALICIA_wood_slovak: "Trnava"
+
  STATE_WEST_GALICIA_polish: "Galicja Zachodnia"
 
  # East Galicia - Ukrainian by default
@@ -147,6 +154,13 @@
  HUB_NAME_STATE_EAST_GALICIA_mine_german: "Kolomea"
  HUB_NAME_STATE_EAST_GALICIA_farm_german: "Stanislau"
  HUB_NAME_STATE_EAST_GALICIA_wood_german: "Stryj"
+
+ STATE_EAST_GALICIA_slovak: "Západná Halič"
+ HUB_NAME_STATE_EAST_GALICIA_city_slovak: "Ľvov"
+ HUB_NAME_STATE_EAST_GALICIA_port_slovak: ""
+ HUB_NAME_STATE_EAST_GALICIA_mine_slovak: "Kolomyjka"
+ HUB_NAME_STATE_EAST_GALICIA_farm_slovak: "Stanislavov"
+ HUB_NAME_STATE_EAST_GALICIA_wood_slovak: "Stryj"
 
  STATE_EAST_GALICIA_polish: "Galicja Wschodnia"
  HUB_NAME_STATE_EAST_GALICIA_city_polish: "Lwów"

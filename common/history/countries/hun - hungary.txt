@@ -25,7 +25,7 @@
 			add_ruling_interest_group = yes
 		}
 
-		set_capital = STATE_SLOVAKIA
+		set_capital = STATE_CENTRAL_HUNGARY
 		if = {
 			limit = {
 				has_dlc_feature = ip3_content

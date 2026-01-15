@@ -895,7 +895,7 @@ SLV = {
 
 	country_type = recognized
 
-	tier = principality
+	tier = kingdom
 
 	cultures = { slovak }
 	capital = STATE_SLOVAKIA
