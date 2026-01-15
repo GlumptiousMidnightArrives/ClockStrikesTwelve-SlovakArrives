@@ -23789,8 +23789,8 @@ iberian = {
 	}
 }
 
-galician= {
-	color= hsv{ 0 0.22 0.5 }
+galicijan= {
+	color= { 132 216 240 }
 	religion = catholic
 	heritage = heritage_west_slavic
 	language = language_west_slavic
@@ -23952,7 +23952,7 @@ galician= {
 }
 
 rusyn= {
-	color= hsv{ 0.16 0.32 0.62 }
+	color= { 234 255 117 }
 	religion = orthodox
 	heritage = heritage_west_slavic
 	language = language_west_slavic
@@ -24045,7 +24045,7 @@ rusyn= {
 }
 
 moravan= {
-	color= hsv{ 0.26 0.52 0.91 }
+	color= { 115 183 255 }
 	religion = catholic
 	heritage = heritage_west_slavic
 	language = language_west_slavic

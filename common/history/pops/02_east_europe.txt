@@ -270,7 +270,7 @@
 		        size = 55800
 		    }
 		    create_pop = {
-		        culture = galician
+		        culture = galicjan
 		        size = 127675
 		    }
 		    create_pop = {
@@ -403,11 +403,11 @@
 				size = 5000
 			}
 			create_pop = {
-				culture = galician
+				culture = galicjan
 				size = 1740004
 			}
 			create_pop = {
-				culture = galician	
+				culture = galicjan	
 				size = 152000
 				religion = orthodox #should work
 			}
@@ -433,7 +433,7 @@
 				size = 15000
 			}
 			create_pop = {
-				culture = galician
+				culture = galicjan
 				size = 172396
 			}
 			create_pop = {
@@ -449,12 +449,12 @@
 	s:STATE_EAST_GALICIA = {
 		region_state:SLV = {
 			create_pop = {
-				culture = galician
+				culture = galicjan
 				size = 20000
 				pop_type = aristocrats
 			}
 			create_pop = {
-				culture = galician
+				culture = galicjan
 				size = 6000
 				pop_type = aristocrats
 				religion = orthodox
@@ -475,11 +475,11 @@
 				size = 30000
 			}
 			create_pop = {
-				culture = galician
+				culture = galicjan
 				size = 812800
 			}
 			create_pop = {
-				culture = galician
+				culture = galicjan
 				size = 1543804
 				religion = orthodox
 			}
@@ -734,7 +734,7 @@
 			    size = 105072
 			}
 			create_pop = {
-			    culture = galician
+			    culture = galicijan
 			    size = 52021
 			}
 
@@ -799,7 +799,7 @@
 				size = 48687
 			}
 			create_pop = {
-				culture = galician
+				culture = galicjan
 				size = 8210
 			}
 		}
@@ -887,7 +887,7 @@
 	s:STATE_BUKOVINA = {
 		region_state:SLV = {
 			create_pop = {
-				culture = galician
+				culture = galicjan
 				size = 60008
 			}
 			create_pop = {
@@ -907,7 +907,7 @@
 				size = 1986
 			}
 			create_pop = {
-				culture = galician
+				culture = galicjan
 				size = 104400
 				religion = orthodox
 			}
