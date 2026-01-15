@@ -1,0 +1,406 @@
+galicjan= {
+	color= { 132 216 240 }
+	religion = catholic
+	heritage = heritage_west_slavic
+	language = language_west_slavic
+
+	obsessions = {
+		liquor
+	}
+
+	traditions = { }
+	male_common_first_names = {
+		Adam Aleksander Antoni Agenor
+		Boleslaw Bonawentura Bronislaw
+		Dezydery
+		Edmund Edward Emil Eustachy
+		Felicjan Franciszek Feliks
+		Gustaw
+		Henryk
+		Ignacy
+		Jakub Jan Jedrzej Juliusz Jozef_2
+		Karol Kazimierz Klemens Konstanty
+		Lech Leon_2 Leopold Lucjan Ludwik
+		Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw
+		Rodryg Roman Romuald
+		Samuel Stanislaw Stefan
+		Tadeusz Tomasz
+		Waclaw Wilhelm Witold Wladyslaw Wojciech Walenty
+		Zygmunt
+		Andriy Anton Arkadiy Adam Amvrosii
+		Borys Bohdan
+		Dmitro Danylo
+		Evgeniy
+		Fyodor Fedir
+		Hryhoriy
+		Ivan Ilarion Ippolit Isaak Ihnat
+		Kiril Kostiantyn
+		Lavr Leonid Lev
+		Mikhail Mykola Markian
+		Nikita Nykyfor
+		Oleksandr Oleksiy Oleh Omelian
+		Panteleimon Pavel Petro Pylyp
+		Roman
+		Semyon Sergiy Sylvester
+		Teodosiy Tymofiy
+		Valeriy Viktor Vladislav Volodimir Vasil Vsevolod
+		Yevhen Yuriy Yulian Yakiv Viktor
+	}
+	female_common_first_names = {
+		Anna
+		Barbara
+		Eleonora Elzbieta Emilia Ewelina
+		Franciszka
+		Gertruda
+		Helena
+		Izabela
+		Jozefa
+		Karolina Konstancja
+		Maria Marianna
+		Paula
+		Regina
+		Stefania
+		Teresa Teofila Tekla
+		Ursula
+		Wiktoria
+		Zofia
+		Darya Dniprova
+		Glafira
+		Hanna
+		Kolomba
+		Lyubov Lyudmila
+		Maria
+		Nadazhda Nataliya Nina
+		Olena Olha
+		Polina
+		Ruslana
+		Slava Solomya
+		Teklya
+		Ulyana
+		Valeriya Varvara
+		Xenia
+		Yevheniya
+	}
+	noble_last_names = {
+		Bor-Komorowski Brzezinski
+		Chodkiewicz CzetwertyN_ski
+		Dunin Domeyko
+		Glowacki GoL_uchowski
+		Hauke-Boask Horodecki
+		Iwaszkiewicz
+		JeL_owicki
+		Kalinowski
+		Lankowski L_ubieN_ski
+		Maklowicz MaL_achowski
+		OgiN_ski
+		Pilsudski Plater Potocki
+		Radziwill Rola-Zymierski Rydz-Smigly
+		Sapieha Sanguszko SobaN_ski
+		Tutkowski
+		Wielopolski Wieniawa-Dlugoszowski WaN_kowicz
+		Z_O_L_kiewski
+		Bezborodko
+		Chubynsky Czajkowski
+		Drahomanov Doroshenko Drahomanov Domontovych Drevchenko
+		Gogol-Yanovsky
+		Hnizdovsky Hrekov Hrushevsky Hertsyk Holovatsky
+		Karaszewicz-Tokarzewski Kobyliansky Konysky Kropyvnytsky Kulish Kuilovskiy Kochubey Khanenko
+		Levytsky Lototsky Lyzohub Lysenko Lypynsky
+		Mazepa
+		Ohonovsky Omelianovych-Pavlenko Ortynsky
+		Petrushevych
+		Rodzianko
+		Sas-Kuilovsky Shakhovskoy Sheptytsky Skoropadskyi
+		Tereshchenko Tishkevich
+		Vakhnianyn Vitovsky
+		Zubrytsky
+	}
+	common_last_names = {
+		Bem Brzoska Bukowicz Baziak
+		Chalasinski Chlaposwski Chlopicki Chrzanowski
+		Dabrowski Dembinski Drzymala
+		Fabrycy
+		Idzikowski
+		Jasinski
+		Klicki
+		Konopczynski Krukowiecki Kruszewski Kozlowski
+		Langiewicz
+		Madalinski Mieroslawski Mikolajczyk Mokronowski
+		Niepokolczycki Nowak
+		Ostrowski
+		Pac Poniatowski Preadzynski
+		Rokossowski Rybinski Rozicky
+		Sanguszko Skrzynecki Soltyk Sowinski
+		Taczaneowski Traugutt Twardowski
+		Wawrzecki Wybicki Wysocki
+		Zajaczek Zaluski Zamoyski Zeligowski
+		Andriychyk Andrusenko
+		Bezruchko Bulyno Bohoslov Bolbochan Boretz
+		Chernyakhovsky Chmola Chernihivetz Chumak
+		Dyachenko Doroshenko
+		Fedorenko
+		Gamula Grigoriev
+		Hrekov Hladyshevsky Herasymenko Holovatskyi Holubovych Hlavatskyi Hrushevsky Hlushko
+		Ivanenko Ivanov Ivanovskiy
+		Kapustiansky Kondratenko Kovalchuk Kozytskiy Krushelnytskyi Kabachok Khotkevych Kopan Kornievsky Kucherenko
+		Leshchenko Leshchinskiy Lukashevych Levchenko Lysenko
+		Markevych Marchenko Morachevskyi Melnyk Melenevskyi Mykhailov
+		Nesvit Nimchenko
+		Ostapenko Opryshko Ovchinnikov
+		Paskevich Petliura Pelesh Puchko Plyushch Potapenko Paplynsky
+		Radchenko Rodionovych Rzhepetsky Rogulsky
+		Shevchenko Skoropadskyi Stefaniv Sembratovych Shashkevych Stulginskiy Shelukhin Singalevych Syniavsky
+		Tymoshenko Teliha
+		Vitovsky Velykanovych Yatsenko Vahylevych Voskresenskiy Volodaretz
+		Zorin Zhuk Zharko Zheplynsky
+	}
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+rusyn= {
+	color= { 234 255 117 }
+	religion = orthodox
+	heritage = heritage_west_slavic
+	language = language_west_slavic
+
+	obsessions = {
+		liquor
+	}
+
+	traditions = { }
+	male_common_first_names = {
+		Andriy Anton Arkadiy Adam Amvrosii
+		Borys Bohdan
+		Dmitro Danylo
+		Evgeniy
+		Fyodor Fedir
+		Hryhoriy
+		Ivan Ilarion Ippolit Isaak Ihnat
+		Kiril Kostiantyn
+		Lavr Leonid Lev
+		Mikhail Mykola Markian
+		Nikita Nykyfor
+		Oleksandr Oleksiy Oleh Omelian
+		Panteleimon Pavel Petro Pylyp
+		Roman
+		Semyon Sergiy Sylvester
+		Teodosiy Tymofiy
+		Valeriy Viktor Vladislav Volodimir Vasil Vsevolod
+		Yevhen Yuriy Yulian Yakiv Viktor
+	}
+	female_common_first_names = {
+		Darya Dniprova
+		Glafira
+		Hanna
+		Kolomba
+		Lyubov Lyudmila
+		Maria
+		Nadazhda Nataliya Nina
+		Olena Olha
+		Polina
+		Ruslana
+		Slava Solomya
+		Teklya
+		Ulyana
+		Valeriya Varvara
+		Xenia
+		Yevheniya
+	}
+	noble_last_names = {
+		Bezborodko
+		Chubynsky Czajkowski
+		Drahomanov Doroshenko Drahomanov Domontovych Drevchenko
+		Gogol-Yanovsky
+		Hnizdovsky Hrekov Hrushevsky Hertsyk Holovatsky
+		Karaszewicz-Tokarzewski Kobyliansky Konysky Kropyvnytsky Kulish Kuilovskiy Kochubey Khanenko
+		Levytsky Lototsky Lyzohub Lysenko Lypynsky
+		Mazepa
+		Ohonovsky Omelianovych-Pavlenko Ortynsky
+		Petrushevych
+		Rodzianko
+		Sas-Kuilovsky Shakhovskoy Sheptytsky Skoropadskyi
+		Tereshchenko Tishkevich
+		Vakhnianyn Vitovsky
+		Zubrytsky
+	}
+	common_last_names = {
+		Andriychyk Andrusenko
+		Bezruchko Bulyno Bohoslov Bolbochan Boretz
+		Chernyakhovsky Chmola Chernihivetz Chumak
+		Dyachenko Doroshenko
+		Fedorenko
+		Gamula Grigoriev
+		Hrekov Hladyshevsky Herasymenko Holovatskyi Holubovych Hlavatskyi Hrushevsky Hlushko
+		Ivanenko Ivanov Ivanovskiy
+		Kapustiansky Kondratenko Kovalchuk Kozytskiy Krushelnytskyi Kabachok Khotkevych Kopan Kornievsky Kucherenko
+		Leshchenko Leshchinskiy Lukashevych Levchenko Lysenko
+		Markevych Marchenko Morachevskyi Melnyk Melenevskyi Mykhailov
+		Nesvit Nimchenko
+		Ostapenko Opryshko Ovchinnikov
+		Paskevich Petliura Pelesh Puchko Plyushch Potapenko Paplynsky
+		Radchenko Rodionovych Rzhepetsky Rogulsky
+		Shevchenko Skoropadskyi Stefaniv Sembratovych Shashkevych Stulginskiy Shelukhin Singalevych Syniavsky
+		Tymoshenko Teliha
+		Vitovsky Velykanovych Yatsenko Vahylevych Voskresenskiy Volodaretz
+		Zorin Zhuk Zharko Zheplynsky
+	}
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}
+
+moravan= {
+	color= { 115 183 255 }
+	religion = catholic
+	heritage = heritage_west_slavic
+	language = language_west_slavic
+
+	obsessions = {
+		meat
+	}
+
+	traditions = { }
+	male_common_first_names = {
+		Abraham
+		Alexander
+		Alfred
+		Alois
+		Antonin
+		August
+		Bedrich
+		Benedikt
+		Borivoj
+		Cenek
+		Drahoslav
+		David_2
+		Edvard
+		Emanuel
+		Emil
+		Evzen
+		Frantisek
+		Frantisek_Josef
+		Frantisek_Xaver
+		Hermenegild
+		Jaroslav
+		Jindrich
+		Jiri
+		Josef
+		Jan_2
+		Jan_Krtitel
+		Jan_Nepomuk
+		Kajetan
+		Karel
+		Konstantin
+		Ladislav
+		Luvik
+		Matyas
+		Maxmilian
+		Mikulas
+		Olbram
+		Otakar
+		Pavel
+		Petr
+		Radola
+		Rafael_2
+		Tomas
+		Vincenc
+		Vitezslav
+		Vlastimil
+		Vojtech
+		Vratislav
+		Vaclav
+		Zdenek
+	}
+	female_common_first_names = {
+		Anna
+		Barbara
+		Blank
+		Eleonora
+		Ivana
+		Jaroslava
+		Jenovefa
+		Karolina
+		Katerina
+		Klara
+		Martha
+		Martina
+		Olga
+		Renata
+		Stanislava
+		Tereza
+		Zdena
+		Zuzana
+	}
+	noble_last_names = {
+		Albert
+		Clary_Aldringen
+		Colloredo-Mansfeld
+		Harrach
+		Lichnovsky
+		Thun-Hohenstein
+		von_Mittrowitz-Nettolitzky
+		von_Nostitz
+		Vratislav_z_Mitrovic
+		z_Bubna
+		z_Lichtenstejna
+		z_Lobkovic
+	}
+	common_last_names = {
+		Balaban
+		Basch
+		Breisky
+		Celovsky
+		Dvorak
+		Fibich
+		Gajda
+		Gellner
+		Hrdlicka
+		Halek
+		Jirecek
+		Kadlec
+		Kafka
+		Koller
+		Krizkovsky
+		Kucera
+		Kuchar
+		Lederer
+		Makosky
+		Mik
+		Moravec
+		Nemecek
+		Neruda
+		Novotny
+		Novacek
+		Popper
+		Radecky
+		Rokytansky
+		Safranek
+		Safarik
+		Schack
+		Schubert
+		Skoda
+		Skuhersky
+		Smetana
+		Snejdarek
+		Suk
+		Svoboda
+		Syrovy
+		Tomasek
+		Tyl
+		Vitasek
+		Vorisek
+		Wankel
+		Weber
+		Zoubek
+		Zibrt
+		Zivr
+	}
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
+}

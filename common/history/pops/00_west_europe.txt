@@ -1293,19 +1293,19 @@
 		region_state:AUS = {
 			create_pop = {
 				culture = romanian
-				size = 183000
+				size = 83000
 			}
 			create_pop = {
 				culture = slovak
-				size = 308000
+				size = 398000
 			}
 			create_pop = {
 				culture = south_german
-				size = 50000
+				size = 50300
 			}
 			create_pop = {
 				culture = north_italian
-				size = 70000
+				size = 76000
 			}
 		}
 	}
