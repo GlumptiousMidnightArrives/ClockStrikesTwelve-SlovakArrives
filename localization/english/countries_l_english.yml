@@ -687,8 +687,6 @@
  SKH_ADJ:0 "Sakhalinian"
  SLO:0 "Slovenia"
  SLO_ADJ:0 "Slovenian"
- SLV:0 "Slovakia"
- SLV_ADJ:0 "Slovak"
  SNG:0 "Sangu"
  SNG_ADJ:0 "Sangu"
  SOK:0 "Sokoto"
@@ -1764,3 +1762,9 @@
  dyn_c_spanish_republic: "Spanish Republic"
 
  dyn_c_antilles_union: "Antillean Union"
+
+# SLOVAKIA
+ SLV:0 "Slovakia"
+ SLV_ADJ:0 "Slovak"
+ dyn_c_slovak_kingdom: "Kingdom of Veľký Slovensko"
+ dyn_c_slovak_empire: "Grande Imperial Realm of Slovensko"
