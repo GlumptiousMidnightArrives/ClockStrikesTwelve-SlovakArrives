@@ -1272,6 +1272,32 @@
 				culture = galician
 				size = 56004
 			}
+		    create_pop = {
+		        culture = silesian
+		        size = 81778
+		    }
+		    create_pop = {
+		        culture = slovak
+		        size = 95800
+		    }
+		    create_pop = {
+		        culture = galicjan
+		        size = 87675
+		    }
+		    create_pop = {
+		        culture = czech
+		        religion = catholic
+		        size = 130062
+		    }
+		    create_pop = {
+		        culture = ashkenazi
+		        religion = jewish
+		        size = 6896
+		    }
+			create_pop = {
+		        culture = morav
+		        size = 5200
+		    }
 		}
 	}
 	s:STATE_STYRIA = {

@@ -262,34 +262,6 @@
 				size = 3452
 			}
 		}
-		region_state:SLV = {
-		    create_pop = {
-		        culture = silesian
-		        size = 81778
-		    }
-		    create_pop = {
-		        culture = slovak
-		        size = 55800
-		    }
-		    create_pop = {
-		        culture = galicjan
-		        size = 127675
-		    }
-		    create_pop = {
-		        culture = czech
-		        religion = catholic
-		        size = 130062
-		    }
-		    create_pop = {
-		        culture = ashkenazi
-		        religion = jewish
-		        size = 6896
-		    }
-			create_pop = {
-		        culture = north_german
-		        size = 5200
-		    }
-		}
 	}
 	s:STATE_WEST_PRUSSIA = {
 		region_state:PRU = {
