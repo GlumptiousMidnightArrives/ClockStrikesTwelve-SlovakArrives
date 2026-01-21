@@ -1204,7 +1204,7 @@
 		}
 	}
 	s:STATE_MORAVIA = {
-		region_state:AUS = {
+		region_state:SLV = {
 			create_pop = {
 				culture = slovak
 				size = 10000
